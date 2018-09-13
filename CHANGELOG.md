@@ -1,1 +1,1 @@
-See https://atom.io/releases
+See at https://atom.io/releases
