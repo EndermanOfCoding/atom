@@ -9,7 +9,7 @@ Atom is a hackable text editor for the 21st century, built on [Electron](https:/
 Visit [atom.io](https://atom.io) to learn more or visit the [Atom forum](https://discuss.atom.io).
 
 Follow [@AtomEditor](https://twitter.com/atomeditor) on Twitter for important
-announcements.
+announcements tu.
 
 This project adheres to the Contributor Covenant [code of conduct](CODE_OF_CONDUCT.md).
 By participating, you are expected to uphold this code. Please report unacceptable behavior to atom@github.com.
